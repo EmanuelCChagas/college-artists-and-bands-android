@@ -1,4 +1,6 @@
-# Artists & Bands — Android
+# Artists & Bands — Android — College Project
+
+> College coursework project, preserved as a record of learning and academic development.
 
 An Android application for managing artists, bands, and band membership, built with **Java** and **Firebase Realtime Database**. Originally named **Evento_**, the project includes groundwork for event management. The implemented screens focus on artists and bands, with an interface in Portuguese.
 
@@ -26,7 +28,7 @@ An Android application for managing artists, bands, and band membership, built w
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/EmanuelCChagas/artists-and-bands-android.git
+   git clone https://github.com/EmanuelCChagas/college-artists-and-bands-android.git
    ```
 
 2. Open the repository root in Android Studio. Use a Gradle JDK compatible with the checked-in build configuration and install Android SDK Platform 32.
